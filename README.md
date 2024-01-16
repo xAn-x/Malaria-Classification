@@ -16,7 +16,11 @@ This Jupyter Notebook project focuses on using deep convolutional neural network
 The dataset used for training and evaluation is the [Malaria Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria) from Kaggle, consisting of infected and uninfected cell images.
 
 ## Samples
+* **_0 : Infected_**
+* **_1 : Un-Infected_**
+  
 ![Some Samples](./samples.png)
+
 
 ## Architecture
 ![Models Architechture](./architecture.png)
@@ -30,3 +34,17 @@ The trained model achieved an accuracy of 93% on the test dataset. For detailed 
 
 ### Accurracy
 ![Training and Validation Accuraccy](./accurracy.png)
+
+
+## Contributing
+Contributions are welcome! If you find any issues or want to enhance the project, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
+
+## Conclusion
+Thank you for exploring the Malaria Classification project! I hope this project inspires and contributes to advancements in automated diagnosis using deep learning techniques. Feel free to explore the code, experiment with the notebook, and contribute to the project. If you have any questions, suggestions, or feedback, please don't hesitate to reach out.
+
+Happy coding and stay curious!
+
+# 😀
